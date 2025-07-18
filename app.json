@@ -3,8 +3,9 @@
     "pages/index/index"
   ],
   "window": {
-    "navigationBarTextStyle": "white",
-    "navigationStyle": "custom"
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom",
+    "backgroundColorTop": "#ffffff"
   },
   "style": "v2",
   "renderer": "skyline",
