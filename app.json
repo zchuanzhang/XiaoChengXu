@@ -5,7 +5,8 @@
   "window": {
     "navigationBarTextStyle": "black",
     "navigationStyle": "custom",
-    "backgroundColorTop": "#ffffff"
+    "backgroundColorTop": "#ffffff",
+    "navigationBarTitleText": "Hello World"
   },
   "style": "v2",
   "renderer": "skyline",
